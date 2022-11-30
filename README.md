@@ -1,1 +1,1 @@
-  ![Snake animation](https://github.com/AmandaAmarante/amandaamarante/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/amandaamarante/amandaamarante/blob/output/github-contribution-grid-snake.svg)
